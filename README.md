@@ -34,7 +34,7 @@ You need to generate the starter code and fill it with the necessary code to sat
 
 ## Introduction
 
-In this lesson we are going to work with Angular for the first time. The goal here is to work on a small projects where you can practice the concepts we've learned thus far.
+I hope everyone is comfortable with the angular. The goal here is to work on a small projects where you can practice the concepts we've learned thus far.
 
 ## Starter Code
 
