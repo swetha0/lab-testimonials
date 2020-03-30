@@ -67,6 +67,8 @@ At the bottom of the testimonial, we will add a testimonial form to add some rea
 The first thing you will have to do is to generate the project with `Angular CLI`.
 
 Expected Output
-![Testimonials](https://i1.faceprep.in/s3://facenow/ProGrad/typescript-hear-from-prograds.svg)
+![Testimonials](https://i1.faceprep.in/ProGrad/typescript-hear-from-prograds.svg)
+
+
 Happy Coding ProGrad ❤️
 
