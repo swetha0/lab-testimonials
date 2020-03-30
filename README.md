@@ -65,3 +65,5 @@ In the project, we are going to create a testimonial with your experience. We ar
 At the bottom of the testimonial, we will add a testimonial form to add some reality to our article. We can't have testimonial without a form! (Don't worry, it doesn't need to work.  We will get to that later).
 
 The first thing you will have to do is to generate the project with `Angular CLI`.
+Happy Coding ProGrad ❤️
+
