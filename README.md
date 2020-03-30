@@ -1,6 +1,12 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | Testimonials
+# ProGrad Lab | Hear From Our ProGrads
+
+## Introduction
+
+Being a ProGrad is a life-time experience. In the past, we have several times tried showing the world what is to be a ProGrad. But, we soon realised that no one can better describe this journey than our ProGrads themselves.
+
+So we are on the mission to build a simple single page application that will let the world hear from our ProGrads. Could you help us out with this?
 
 ## Learning Goals
 
@@ -24,9 +30,7 @@ $ git commit -m "done"
 $ git push origin master
 ```
 
-Navigate to your repo and create a pull request from your master branch to the original repository's master branch.
-
-In the pull request name, add your Prograd id, name, and last name separated by a dash "-".
+Navigate to your repo and create a pull request from your master branch to the original repository's master branch. In the pull request name, add your ProGrad id, name, and last name separated by a dash "-".
 
 ## Deliverables
 
@@ -55,7 +59,7 @@ To generate the starter code, follow the steps given below
     - run the command following command
     - ```ng serve --open or ng serve -o```
     
-## PROGRESSION #1: Testimonials
+## Progression #1: Let them share their experience
 
 In the project, we are going to create a testimonial with your experience. We are going to create two different components:
 
