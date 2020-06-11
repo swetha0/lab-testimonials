@@ -1,0 +1,34 @@
+<div id="top">
+    <div id="content">
+        <h1>
+            Hear It From Our ProGrads
+        </h1>
+        <span>
+            Being a ProGrad is a life-time experience. In the past,we have several times tired showing the world what is to be a ProGrad. But, we soon realised that no one can better describe this journey than our ProGrads themselves.
+        </span>
+        <p class="boldtext">
+            So here we are with a mission to let the world hear it from our ProGrads!<br>
+            <br><span class="hashtag">
+                #ProudProGrads#YourDreamOurMission
+            </span>
+        </p>
+        
+    </div>
+    <div>
+        <img src='../../assets/hero.PNG'>
+    </div>
+</div>
+<div id="main">
+    <h2>
+        Here Is What Our ProGrads Have To Say
+    </h2>
+    <div class="list">
+        <ul class="prograddata">
+            <li *ngFor="let prograd of prograds">
+              <h3>{{prograd.name}}</h3>
+              <p id='experience'>{{prograd.experience}}</p>
+              <hr>
+            </li>
+        </ul>          
+    </div>
+</div>

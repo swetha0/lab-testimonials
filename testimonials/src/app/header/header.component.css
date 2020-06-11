@@ -1,0 +1,16 @@
+#headerBox {
+    display: grid;
+    grid-template-columns:3fr 1fr;
+    border: 0px solid;
+    padding: 0px;
+    box-shadow: 5px 10px 10px lightgrey;
+    margin: 0px;
+}
+#logo{
+    width:200px;
+    height:40px;
+    margin-left: 15%;
+}
+p{
+    font-size: 1em;
+}
